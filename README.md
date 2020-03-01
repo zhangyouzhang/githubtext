@@ -1,0 +1,2 @@
+# githubtext
+git注册
